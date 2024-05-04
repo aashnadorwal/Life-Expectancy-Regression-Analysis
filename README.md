@@ -1,5 +1,7 @@
 # Life-Expectancy-Linear-Regression
 
+
+
 ## Executive Summary
 * **Problem**: What are the key factors that influence life expectancy across different countries?
 * **Data Source**: Life Expectancy World of Health Organization from Kaggle
@@ -29,10 +31,12 @@
   * Create a multivariable regression model to estimate what key factors affect Life Expectancy across different countries.
  
 ## Data
-2938 Rows, 10 Columns, 6 independent variables, 1 dependent variable
+
+**Cleaned Data**: 2938 Rows, 10 Columns, 7 independent variables, 1 dependent variable
+
 * **Multivariable Regression**
 * Dependent Variable - Life Expectancy
-* Independent Variables- Country, Adult Mortality, Alcohol Consumption, BMI (Body Mass Index), Total Expenditure, Polio, Hepatitis B, and Measles.
+* Independent Variables- Adult Mortality, Alcohol Consumption, BMI (Body Mass Index), Total Expenditure, Polio, Hepatitis B, and Measles.
 * I chose **eight** variables that I thought would be most significant in determining Life Expectancy.
 
 ## Definition of Variables
