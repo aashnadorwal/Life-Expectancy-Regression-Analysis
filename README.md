@@ -78,7 +78,6 @@
 ## Residual Plots
 
 <img width="391" alt="image" src="https://github.com/aashnadorwal/Life-Expectancy-Linear-Regression/assets/122498175/5f265207-4c47-41ac-b31b-c5a1e0525e86">
-<img width="391" alt="image" src="https://github.com/aashnadorwal/Life-Expectancy-Linear-Regression/assets/122498175/75295565-48bc-4f8c-a610-9f28e5d9f2bd">
 
 ## Conclusion and Application
 
