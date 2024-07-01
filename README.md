@@ -81,7 +81,11 @@
 
 ## Conclusion and Application
 
-The most significant variables would be **Adult morality** and **Alcohol** because of their low P-values.  With a coefficient of  -.048, it suggests that life expectancy tends to increase when adult morality decreases.  On the contrary, the data suggest that with an increase in alcohol consumption, life expectancy increases. We know this to not be the case due to our knowledge of alcohol on human health.  I have concluded that additional data would be necessary to develop a more accurate data.
+The most significant variable in our model is **Adult Mortality**, indicated by its low P-values, well below the common significance threshold of 0.05.
+
+With a coefficient of -0.048, the model suggests that life expectancy tends to increase when adult mortality decreases. Specifically, for each unit decrease in adult mortality, life expectancy increases by approximately 0.048 years, assuming all other variables remain constant.
+
+This finding has substantial practical implications. Policymakers and public health officials can focus on reducing adult mortality rates through interventions such as improving healthcare access, addressing preventable diseases, and enhancing overall living conditions. Such efforts can lead to measurable improvements in life expectancy.
 
 ## Dataset Source
 https://www.kaggle.com/datasets/vikramamin/life-expectancy-who
